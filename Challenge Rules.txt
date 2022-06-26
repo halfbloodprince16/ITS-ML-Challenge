@@ -1,0 +1,22 @@
+--Rigorous Regression ML Challenge--
+
+Welcome to an ML Challenge. You are provided with two datasets. You are required to train an ML model to apply regression to predict the value of 'Y' given a value 'X'.
+
+Rules
+------
+1. First 350 data points in each file are to be used as Training Set. Balance datapoints are to be used to test the efficacy of the model.
+
+2. Use of following regression techniques for the model training is mandatory
+
+	(a) Linear Regression
+	(b) RandomForest 
+	(c) Ransac regression
+
+3. In addition to above, you may optionaly use any additional two techniques of your choice for regression.
+
+4. Challenge: - Train your models using various techniques to give best possible accuracy for the test set.
+
+
+Submission Procedure: -
+------------------------
+Goto https://forms.gle/5mdLW5spKnyWdJcw7  
